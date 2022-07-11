@@ -3,8 +3,17 @@ vue学习脚本和工具集合，从v3开始学习
 
 #### 安装
 
-##### 安装@vue/cli
+##### 安装npm
+```bash
+# 官方文档：https://github.com/nodesource/distributions
+curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+sudo yum install -y nodejs
+```
 
+##### 安装vue
+```bash
+npm install vue@next
+```
 
 
 #### 自学问题整理
