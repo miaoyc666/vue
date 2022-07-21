@@ -22,7 +22,7 @@ sudo npm install -g @vue/cli # 或 yarn global add @vue/cli
 
 #### 创建应用
 ```bash
-vue create helloVue
+vue create hellovue
 ```
 
 #### 问题整理
