@@ -4,7 +4,7 @@
 vue学习脚本和工具集合，从v3开始学习
 
 ### 安装
-#### 安装npm
+#### 安装node
 ```bash
 # 官方文档：https://github.com/nodesource/distributions
 curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
